@@ -1,9 +1,9 @@
 <h1 align="center">Hello, Im Cole Vaughn</h1>
 <h3 align="center">Computer Science Student at Edinboro University</h3>
 
-- How to reach me **crvaughn04@gmail.com**
+- Contact: **crvaughn04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Accounts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cole-vaughn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cole-vaughn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/crvaughn04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="crvaughn04" height="30" width="40" /></a>
